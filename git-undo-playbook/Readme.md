@@ -508,7 +508,7 @@ This guide was born from a **real panic moment**. I'm **Arun VK**, and I persona
 
 I wrote this guide so you don't have to panic like I did. This is the **exact method** that rescued my project and kept my team's workflow intact.
 
-**Made with ❤️ by [Arun VK](https://github.com/arunvk)**
+**Made with ❤️ by [Arun VK](https://github.com/ArunVijaykumarcsds)**
 
 *Because we all make mistakes, but we don't all have to panic about them.* 😊
 
