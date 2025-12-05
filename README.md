@@ -124,7 +124,13 @@ Experiments, miscellaneous tools, utilities, and things that don't fit elsewhere
 <img src="https://github-readme-stats.vercel.app/api?username=ArunVijaykumarcsds&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00D9FF" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunVijaykumarcsds&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=00D9FF&fire=FF6B35&currStreakLabel=8B5CF6" width="48%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunVijaykumarcsds&bg_color=0D1117&color=8B5CF6&line=00D9FF&point=FF6B35&area_color=8B5CF6&area=true&hide_border=true&title_color=8B5CF6" width="98%"/>
+</div>
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunVijaykumarcsds&bg_color=0D1117&color=8B5CF6&line=00D9FF&point=FF6B35&area_color=8B5CF6&area=true&hide_border=true" width="98%"/>
 
 </div>
 
