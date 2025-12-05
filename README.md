@@ -153,7 +153,7 @@ Experiments, miscellaneous tools, utilities, and things that don't fit elsewhere
 <br>Anaconda
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter" />
 <br>Jupyter
 </td>
 <td align="center" width="96">
