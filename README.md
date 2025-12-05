@@ -51,7 +51,7 @@ Whether it's quick install commands, deep conceptual notes, or random experiment
 <table>
 <tr>
 <td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/data-backup.png" width="60"/>
+<img src="https://img.icons8.com/fluency/96/000000/safe.png" width="60"/>
 <h3>🗄️ VAULT</h3>
 <p><em>Library install guides</em></p>
 Quick reference cheat sheets for getting things up and running fast
