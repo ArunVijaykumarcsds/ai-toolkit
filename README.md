@@ -85,15 +85,22 @@ Experiments, miscellaneous tools, utilities, and things that don't fit elsewhere
 
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════╗
-║                                       ║
-║   Write it once.                      ║
-║   Reference it forever.               ║
-║   Share it when it helps.             ║
-║                                       ║
-╚═══════════════════════════════════════╝
-```
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/create.png" width="50"/>
+<br><b>Write it once</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/infinity.png" width="50"/>
+<br><b>Reference it forever</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/share.png" width="50"/>
+<br><b>Share it when it helps</b>
+</td>
+</tr>
+</table>
 
 </div>
 
