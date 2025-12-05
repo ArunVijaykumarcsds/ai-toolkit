@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-**`Crafted by`** **[Arun VK](https://github.com/arunvk)**
+**`Crafted by`** **[Arun VK](https://github.com/ArunVijaykumarcsds)**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -114,10 +114,10 @@ Experiments, miscellaneous tools, utilities, and things that don't fit elsewhere
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arunvk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00D9FF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arunvk&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=00D9FF&fire=FF6B35&currStreakLabel=8B5CF6" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ArunVijaykumarcsds&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00D9FF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunVijaykumarcsds&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=00D9FF&fire=FF6B35&currStreakLabel=8B5CF6" width="48%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunvk&custom_title=Contribution%20Graph&bg_color=0D1117&color=8B5CF6&line=00D9FF&point=FF6B35&area_color=8B5CF6&area=true&hide_border=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArunVijaykumarcsds&custom_title=Contribution%20Graph&bg_color=0D1117&color=8B5CF6&line=00D9FF&point=FF6B35&area_color=8B5CF6&area=true&hide_border=true" width="98%"/>
 
 </div>
 
@@ -206,7 +206,7 @@ Experiments, miscellaneous tools, utilities, and things that don't fit elsewhere
 
 <div align="center">
 
-<a href="https://github.com/arunvk">
+<a href="https://github.com/ArunVijaykumarcsds">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/arunvk">
