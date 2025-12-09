@@ -135,7 +135,12 @@ This is why you still need **Windows Defender** ⬇️
 
 ---
 
-## 📊 Feature Comparison Table
+<div align="center">
+
+<h2>📊 Feature Comparison Table</h2>
+
+</div>
+
 
 <div align="center">
 
