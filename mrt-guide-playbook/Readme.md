@@ -137,6 +137,8 @@ This is why you still need **Windows Defender** ⬇️
 
 ## 📊 Feature Comparison Table
 
+<div align="center">
+
 | Feature                    | MRT Benefit                  | Limitation                       |
 |---------------------------|------------------------------|----------------------------------|
 | **Quick Scan**            | Fast health check            | Limited depth                    |
@@ -144,6 +146,8 @@ This is why you still need **Windows Defender** ⬇️
 | **Custom Scan**           | Targeted inspection          | User-selected only               |
 | **Malware Removal**       | Yes                          | Only known threats               |
 | **Real-time Protection**  | ❌ No                         | Requires Defender / Antivirus    |
+
+</div>
 
 ---
 
