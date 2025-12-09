@@ -177,15 +177,21 @@ This is why you still need **Windows Defender** ⬇️
 
 ---
 
-## ✅ Summary
+<div align="center">
 
-MRT is a useful malware cleanup utility for Windows that provides quick, reliable scanning.  
-Use it alongside **Windows Defender** to maintain full system protection.
+<h2>✅ Summary</h2>
 
----
+<p>
+MRT is a useful malware cleanup utility for Windows that provides quick, reliable scanning.<br>
+Use it alongside <b>Windows Defender</b> to maintain full system protection.
+</p>
+
+</div>
+
 
 <div align="center">
 
 ### ⭐ If this helped you, consider starring the repo!
 
 </div>
+
