@@ -44,7 +44,9 @@ Win + R → type mrt → Enter
 
 ### **Method 2 — Windows Search**
 
-![01 1-windows-10-Open-mrt](https://github.com/user-attachments/assets/05cefde2-1bd2-490c-8f9b-b86c73b748a5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/05cefde2-1bd2-490c-8f9b-b86c73b748a5" width="550">
+</p>
 
 ---
 
@@ -56,7 +58,9 @@ Win + R → type mrt → Enter
 
 ### **Step 2 — Welcome Screen**
 
-![Welcome-to-MRT-tool](https://github.com/user-attachments/assets/a9fa6f8a-5140-44ab-ac5e-e8da3e6602db)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a9fa6f8a-5140-44ab-ac5e-e8da3e6602db" width="550">
+</p>
 
 Click **Next** to continue.
 
@@ -64,7 +68,9 @@ Click **Next** to continue.
 
 ### **Step 3 — Select Scan Type**
 
-![windows-select-scan-type-mrt-1024x921](https://github.com/user-attachments/assets/978e8395-134a-4fbc-bf69-fe418d97e16f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/978e8395-134a-4fbc-bf69-fe418d97e16f" width="550">
+</p>
 
 Fast, checks common malware zones.
 
@@ -121,7 +127,9 @@ MRT **does not** provide:
 
 This is why you still need **Windows Defender** ⬇️
 
-![click_virus_then_scan_options](https://github.com/user-attachments/assets/43e58c5f-324a-49bd-a4e7-bec6247888c7)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/43e58c5f-324a-49bd-a4e7-bec6247888c7" width="550">
+</p>
 
 ---
 
