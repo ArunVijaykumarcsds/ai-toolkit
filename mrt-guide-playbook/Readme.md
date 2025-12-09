@@ -139,15 +139,41 @@ This is why you still need **Windows Defender** ⬇️
 
 <div align="center">
 
-| Feature                    | MRT Benefit                  | Limitation                       |
-|---------------------------|------------------------------|----------------------------------|
-| **Quick Scan**            | Fast health check            | Limited depth                    |
-| **Full Scan**             | Deep system scan             | Slow                             |
-| **Custom Scan**           | Targeted inspection          | User-selected only               |
-| **Malware Removal**       | Yes                          | Only known threats               |
-| **Real-time Protection**  | ❌ No                         | Requires Defender / Antivirus    |
+<table>
+  <tr>
+    <th>Feature</th>
+    <th>MRT Benefit</th>
+    <th>Limitation</th>
+  </tr>
+  <tr>
+    <td><b>Quick Scan</b></td>
+    <td>Fast health check</td>
+    <td>Limited depth</td>
+  </tr>
+  <tr>
+    <td><b>Full Scan</b></td>
+    <td>Deep system scan</td>
+    <td>Slow</td>
+  </tr>
+  <tr>
+    <td><b>Custom Scan</b></td>
+    <td>Targeted inspection</td>
+    <td>User-selected only</td>
+  </tr>
+  <tr>
+    <td><b>Malware Removal</b></td>
+    <td>Yes</td>
+    <td>Only known threats</td>
+  </tr>
+  <tr>
+    <td><b>Real-time Protection</b></td>
+    <td>❌ No</td>
+    <td>Requires Defender / Antivirus</td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
