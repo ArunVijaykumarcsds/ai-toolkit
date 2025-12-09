@@ -141,34 +141,34 @@ This is why you still need **Windows Defender** ⬇️
 
 <table>
   <tr>
-    <th>Feature</th>
-    <th>MRT Benefit</th>
-    <th>Limitation</th>
+    <th align="center">Feature</th>
+    <th align="center">MRT Benefit</th>
+    <th align="center">Limitation</th>
   </tr>
   <tr>
-    <td><b>Quick Scan</b></td>
-    <td>Fast health check</td>
-    <td>Limited depth</td>
+    <td align="center"><b>Quick Scan</b></td>
+    <td align="center">Fast health check</td>
+    <td align="center">Limited depth</td>
   </tr>
   <tr>
-    <td><b>Full Scan</b></td>
-    <td>Deep system scan</td>
-    <td>Slow</td>
+    <td align="center"><b>Full Scan</b></td>
+    <td align="center">Deep system scan</td>
+    <td align="center">Slow</td>
   </tr>
   <tr>
-    <td><b>Custom Scan</b></td>
-    <td>Targeted inspection</td>
-    <td>User-selected only</td>
+    <td align="center"><b>Custom Scan</b></td>
+    <td align="center">Targeted inspection</td>
+    <td align="center">User-selected only</td>
   </tr>
   <tr>
-    <td><b>Malware Removal</b></td>
-    <td>Yes</td>
-    <td>Only known threats</td>
+    <td align="center"><b>Malware Removal</b></td>
+    <td align="center">Yes</td>
+    <td align="center">Only known threats</td>
   </tr>
   <tr>
-    <td><b>Real-time Protection</b></td>
-    <td>❌ No</td>
-    <td>Requires Defender / Antivirus</td>
+    <td align="center"><b>Real-time Protection</b></td>
+    <td align="center">❌ No</td>
+    <td align="center">Requires Defender / Antivirus</td>
   </tr>
 </table>
 
