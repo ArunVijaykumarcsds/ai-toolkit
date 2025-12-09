@@ -44,7 +44,7 @@ Win + R → type mrt → Enter
 
 ### **Method 2 — Windows Search**
 
-[![Open MRT via Search](./f665db9b-ee9f-4b03-a608-8eee0b89807a.png)]
+![01 1-windows-10-Open-mrt](https://github.com/user-attachments/assets/05cefde2-1bd2-490c-8f9b-b86c73b748a5)
 
 ---
 
@@ -56,7 +56,7 @@ Win + R → type mrt → Enter
 
 ### **Step 2 — Welcome Screen**
 
-[![Welcome Screen](./a8b3ac8f-21e6-4f61-ac49-08e4829d2ba2.png)]
+![Welcome-to-MRT-tool](https://github.com/user-attachments/assets/a9fa6f8a-5140-44ab-ac5e-e8da3e6602db)
 
 Click **Next** to continue.
 
@@ -64,7 +64,8 @@ Click **Next** to continue.
 
 ### **Step 3 — Select Scan Type**
 
-[![Scan Type Selection](./47b266e5-5b76-494e-b483-4b410d1e983e.png)]
+![windows-select-scan-type-mrt-1024x921](https://github.com/user-attachments/assets/978e8395-134a-4fbc-bf69-fe418d97e16f)
+
 Fast, checks common malware zones.
 
 #### **2️⃣ Full Scan**
@@ -84,8 +85,7 @@ MRT scans and removes threats automatically.
 ---
 
 ### **Step 5 — Viewing Scan Results**
-
-[![Scan Results](./8ebc1611-139f-4f8e-a909-d47726e886e1.png)]
+![windows-malicious-software-removal-tool-scanning](https://github.com/user-attachments/assets/e1f60890-504a-4258-8b4d-d837fdafa6e3)
 
 Results include:
 
@@ -121,7 +121,7 @@ MRT **does not** provide:
 
 This is why you still need **Windows Defender** ⬇️
 
-[![Windows Defender Scan Options](./20155312-5667-4b4f-8d3a-e866fce91026.png)]
+![click_virus_then_scan_options](https://github.com/user-attachments/assets/43e58c5f-324a-49bd-a4e7-bec6247888c7)
 
 ---
 
