@@ -91,7 +91,9 @@ MRT scans and removes threats automatically.
 ---
 
 ### **Step 5 — Viewing Scan Results**
-![windows-malicious-software-removal-tool-scanning](https://github.com/user-attachments/assets/e1f60890-504a-4258-8b4d-d837fdafa6e3)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e1f60890-504a-4258-8b4d-d837fdafa6e3" width="550">
+</p>
 
 Results include:
 
